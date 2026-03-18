@@ -87,23 +87,20 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
-              <h4>Description</h4>
+              <h3>DEVELOPER</h3>
+              <h4>What I Do</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                I am a B.Tech Computer Science student interested in
+                Web Development, Data Science and AI. I build web
+                applications and data-driven systems.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
+                <div className="what-tags">Python</div>
                 <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
+                <div className="what-tags">Machine Learning</div>
+                <div className="what-tags">Data Science</div>
                 <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
                 <div className="what-tags">MySql</div>
               </div>
               <div className="what-arrow"></div>
@@ -129,10 +126,10 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
             <div className="what-content-in">
               <h3>DESIGN</h3>
-              <h4>Description</h4>
+              <h4>What I Create</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                I create 3D models, animations, and UI designs. I enjoy
+                bringing ideas to life through visual design and motion.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
