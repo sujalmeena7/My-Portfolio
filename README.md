@@ -9,5 +9,5 @@ I have modified the gsap club plugins with the trial plugins, but with the trial
 
 **Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
-![Protfolio-Preview](https://ibb.co/QFHk8yBL)
+![Protfolio-Preview](<a href="https://ibb.co/QFHk8yBL"><img src="https://i.ibb.co/QFHk8yBL/Screenshot-2026-03-18-164729.png" alt="Screenshot-2026-03-18-164729" border="0"></a>)
 
