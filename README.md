@@ -81,8 +81,6 @@ src/
 - LinkedIn: [Sujal Meena](https://www.linkedin.com/in/sujal-meena-170418371)
 - Twitter: [@sujal_meena_](https://x.com/sujal_meena_)
 
-## Credits
 
-Original design and development by [Moncy Yohannan](https://github.com/MoncyDev). Personalized and modified by Sujal Meena.
 
 
