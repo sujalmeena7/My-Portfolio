@@ -85,6 +85,4 @@ src/
 
 Original design and development by [Moncy Yohannan](https://github.com/MoncyDev). Personalized and modified by Sujal Meena.
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
